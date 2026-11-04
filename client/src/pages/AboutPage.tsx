@@ -15,7 +15,7 @@ export const AboutPage: React.FC = () => {
           About Banashankari Enterprises
         </h1>
         <p className="text-sm sm:text-base text-slate-600 leading-relaxed font-light">
-          Built upon transparency, verified title documentation, and hands-on construction craftsmanship in Bengaluru.
+          Built upon transparency, verified title documentation, and hands-on in construction craftsmanship in Bengaluru.
         </p>
       </div>
 
